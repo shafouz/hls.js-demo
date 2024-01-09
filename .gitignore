@@ -1,0 +1,4 @@
+node_modules
+dist/
+The.Curse*
+package-lock.json
