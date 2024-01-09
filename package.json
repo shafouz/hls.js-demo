@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "run": "node dist/main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "playlist": "./to_playlist.sh $1"
   },
   "author": "",
   "license": "ISC",
